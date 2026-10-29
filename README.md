@@ -49,3 +49,7 @@
 ## 技术
 
 纯 HTML / CSS / JavaScript，无构建步骤、无外部依赖、无网络请求。单个 `index.html` 约 56 KB。
+
+---
+
+同系列的其他工具见 [工作台索引](https://3698688050-pixel.github.io/)。
